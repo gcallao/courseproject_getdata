@@ -15,9 +15,9 @@ tBodyAcc-mean()-X-mean
         Mean of the body linear acceleration mean signal in the x axis                  
         0.2215982..0.301461 .Time domain signals                        
         
-tBodyAcc-mean()-Y-mean
-        Mean of the body linear acceleration mean signal in the y axis
-        -0.04051395..-0.001308288 .Time domain signals
+tBodyAcc-mean()-Y-mean                  
+        Mean of the body linear acceleration mean signal in the y axis  
+        -0.04051395..-0.001308288 .Time domain signals  
                 
 tBodyAcc-mean()-Z-mean
         Mean of the body linear acceleration mean signal in the z axis
