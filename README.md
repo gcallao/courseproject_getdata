@@ -10,21 +10,14 @@ https://github.com/gcallao/courseproject_getdata
 
 The data used as input for this project are from the Human Activity Recognition Using Smartphones project found in https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and its description available in http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. 
 
-For the purpose of this project it was used only the following data sets from the Human Activity Recognition project:
-
+For the purpose of this project it was used only the following data sets from the Human Activity Recognition project:       
 -train/Subject_train.txt: Each row identifies the subject who performed the activity for each window sample in the train set. Its range is from 1 to 30.             
--test/Subject_test.txt: Each row identifies the subject who performed the activity for each window sample in the test set. Its range is from 1 to 30.
-
--train/X_train.txt: Training set.
-
--train/Y_train.txt: Training labels.
-
--test/X_test.txt: Test set.
-
--test/Y_test.txt: Test labels.
-
--features.txt: List of all features.
-
+-test/Subject_test.txt: Each row identifies the subject who performed the activity for each window sample in the test set. Its range is from 1 to 30.          
+-train/X_train.txt: Training set.         
+-train/Y_train.txt: Training labels.          
+-test/X_test.txt: Test set.         
+-test/Y_test.txt: Test labels.        
+-features.txt: List of all features.      
 -activity_labels.txt: Links the class labels with their activity name.
 
 In the github repository for this project it should be find the following files:
