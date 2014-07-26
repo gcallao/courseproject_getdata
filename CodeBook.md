@@ -2,7 +2,6 @@ CODE BOOK - GETTING AND CLEANING DATA COURSE PROJECT
 
 TIDYDATA02 SET - HUMAN ACTIVITY RECOGNITION USING SMARTPHONES
 JULY 2014
-=====================
 
 Subject
         Identifier of the subject who performs the activity for each observation
