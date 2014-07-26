@@ -20,21 +20,21 @@ For the purpose of this project it was used only the following data sets from th
 -features.txt: List of all features.      
 -activity_labels.txt: Links the class labels with their activity name.
 
-In the github repository for this project it should be find the following files:
--README.md
--CodeBook.md: The variable dictionary.
--run_analysis.R: The R script for processing the data.
--tidydata01.txt: The first tidy data requested.
--tidydata02.txt: The second tidy data requested.
+In the github repository for this project it should be find the following files:        
+-README.md        
+-CodeBook.md: The variable dictionary.        
+-run_analysis.R: The R script for processing the data.      
+-tidydata01.txt: The first tidy data requested.     
+-tidydata02.txt: The second tidy data requested.      
 
-The data process procedure is detailed with comments in run_analysis.R. The general picture goes like this:
-1. Read all the data listed previously. 
-2. Merge the test and train set independently (X,Y and Subject sets) to finally merge the complete test and train set to create one data set. 
-3. Label all the variables in the data set. 
-4. Assigned descriptive activity names to the activities in the data set.
-5. Extract only the measurements of the mean and standard deviation in the data set using the grep command.
-6. Create the first tidy data set(tidydata01.txt).
-7. Calculate the average value for each variable for each activity and each subject using as input the first tidy data set(tidydata01.txt) using the functions split and sapply.
-8. Give form to the second tidy data set using t(transpose), text connection among others functions.
-9. Rename the variable names adding a "-mean" string to the original names, and ordering the data set by the subject variable.
-10. Create the second tidy data set(tidydata02.txt).
+The data process procedure is detailed with comments in run_analysis.R. The general picture goes like this:     
+1. Read all the data listed previously.       
+2. Merge the test and train set independently (X,Y and Subject sets) to finally merge the complete test and train set to create one data set.      
+3. Label all the variables in the data set.       
+4. Assigned descriptive activity names to the activities in the data set.     
+5. Extract only the measurements of the mean and standard deviation in the data set using the grep command.     
+6. Create the first tidy data set(tidydata01.txt).      
+7. Calculate the average value for each variable for each activity and each subject using as input the first tidy data set(tidydata01.txt) using the functions split and sapply.     
+8. Give form to the second tidy data set using t(transpose), text connection among others functions.      
+9. Rename the variable names adding a "-mean" string to the original names, and ordering the data set by the subject variable.       
+10. Create the second tidy data set(tidydata02.txt).      
