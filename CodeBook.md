@@ -7,13 +7,13 @@ Subject
         Identifier of the subject who performs the activity for each observation
                 1..30 .Integer identifier of subject unit
         
-Activity
-        Activity perform of each subject for each observation
-                1..6 .Factor activity performed unit
+Activity                        
+        Activity perform of each subject for each observation                   
+                1..6 .Factor activity performed unit                    
                 
-tBodyAcc-mean()-X-mean
-        Mean of the body linear acceleration mean signal in the x axis
-        0.2215982..0.301461 .Time domain signals
+tBodyAcc-mean()-X-mean                  
+        Mean of the body linear acceleration mean signal in the x axis                  
+        0.2215982..0.301461 .Time domain signals                        
         
 tBodyAcc-mean()-Y-mean
         Mean of the body linear acceleration mean signal in the y axis
