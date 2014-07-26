@@ -131,7 +131,7 @@ tBodyGyroJerk-std()-Z-mean
         Mean of the jerk body angular velocity standard deviation signal in the z axis  
         -0.9953808..0.1932065 .Time domain signals      
 
-tBodyAccMag-mean()-mean 
+tBodyAccMag-mean()-mean                                  
         Mean of the body linear acceleration magnitude mean signal      
         -0.9864932..0.6446043 .Time domain signals      
 
@@ -147,7 +147,7 @@ tGravityAccMag-std()-mean
         Mean of the gravity acceleration magnitude standard deviation signal    
         -0.9864645..0.4284059 .Time domain signals      
 
-tBodyAccJerkMag-mean()-mean     
+tBodyAccJerkMag-mean()-mean                                                          
         Mean of the jerk body linear acceleration magnitude mean signal 
         -0.9928147..0.4344904 .Time domain signals      
 
@@ -159,7 +159,7 @@ tBodyGyroMag-mean()-mean
         Mean of the body angular velocity magnitude mean signal 
         -0.9807408..0.4180046 .Time domain signals      
 
-tBodyGyroMag-std()-mean 
+tBodyGyroMag-std()-mean                                                          
         Mean of the body angular velocity magnitude standard deviation signal   
         -0.9813727..0.299976 .Time domain signals       
 
@@ -251,8 +251,8 @@ fBodyAccMag-std()-mean
         Mean of the body linear acceleration magnitude standard deviation signal        
         -0.9876485..0.1786846 .Frequency domain signals 
 
-fBodyBodyAccJerkMag-mean()-mean 
-        Mean of the jerk body linear acceleration magnitude mean signal 
+fBodyBodyAccJerkMag-mean()-mean                                  
+        Mean of the jerk body linear acceleration magnitude mean signal                                         
         -0.9939983..0.5384048 .Frequency domain signals 
 
 fBodyBodyAccJerkMag-std()-mean  
@@ -260,7 +260,7 @@ fBodyBodyAccJerkMag-std()-mean
         -0.9943667..0.3163464 .Frequency domain signals 
 
 fBodyBodyGyroMag-mean()-mean    
-        Mean of the body angular velocity magnitude mean signal 
+        Mean of the body angular velocity magnitude mean signal                                          
         -0.9865352..0.2039798 .Frequency domain signals 
 
 fBodyBodyGyroMag-std()-mean     
@@ -271,8 +271,8 @@ fBodyBodyGyroJerkMag-mean()-mean
         Mean of the jerk body angular velocity magnitude mean signal    
         -0.9976174..0.1466186 .Frequency domain signals 
 
-fBodyBodyGyroJerkMag-std()-mean 
-        Mean of the jerk body angular velocity magnitude standard deviation signal      
+fBodyBodyGyroJerkMag-std()-mean                                          
+        Mean of the jerk body angular velocity magnitude standard deviation signal                                    
         -0.9975852..0.2878346 .Frequency domain signals 
         
         
