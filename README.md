@@ -12,7 +12,7 @@ The data used as input for this project are from the Human Activity Recognition 
 
 For the purpose of this project it was used only the following data sets from the Human Activity Recognition project:
 
--train/Subject_train.txt: Each row identifies the subject who performed the activity for each window sample in the train set. Its range is from 1 to 30. 
+-train/Subject_train.txt: Each row identifies the subject who performed the activity for each window sample in the train set. Its range is from 1 to 30.             
 -test/Subject_test.txt: Each row identifies the subject who performed the activity for each window sample in the test set. Its range is from 1 to 30.
 
 -train/X_train.txt: Training set.
