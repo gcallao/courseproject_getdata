@@ -2,11 +2,9 @@ README - GETTING AND CLEANING DATA COURSE PROJECT
 
 TIDYDATA02 SET - HUMAN ACTIVITY RECOGNITION USING SMARTPHONES
 JULY 2014
-=====================
 
 gcallao
 https://github.com/gcallao/courseproject_getdata
-=====================
 
 "The purpose of this project is to demostrate the capacity to collect, work with, and clean a data set. The goal is to prepare tidy data sets that can be used for later analysis."
 
