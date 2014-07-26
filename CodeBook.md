@@ -148,7 +148,7 @@ tGravityAccMag-std()-mean
         -0.9864645..0.4284059 .Time domain signals      
 
 tBodyAccJerkMag-mean()-mean                                                          
-        Mean of the jerk body linear acceleration magnitude mean signal 
+        Mean of the jerk body linear acceleration magnitude mean signal                                  
         -0.9928147..0.4344904 .Time domain signals      
 
 tBodyAccJerkMag-std()-mean      
@@ -156,7 +156,7 @@ tBodyAccJerkMag-std()-mean
         -0.9946469..0.4506121 .Time domain signals      
 
 tBodyGyroMag-mean()-mean        
-        Mean of the body angular velocity magnitude mean signal 
+        Mean of the body angular velocity magnitude mean signal                                  
         -0.9807408..0.4180046 .Time domain signals      
 
 tBodyGyroMag-std()-mean                                                          
