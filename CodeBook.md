@@ -4,7 +4,7 @@ TIDYDATA02 SET - HUMAN ACTIVITY RECOGNITION USING SMARTPHONES
 JULY 2014
 
 Subject
-Identifier of the subject who performs the activity for each observation
+                Identifier of the subject who performs the activity for each observation
                 1..30 .Integer identifier of subject unit
         
 Activity                        
